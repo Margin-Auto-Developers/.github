@@ -1,4 +1,3 @@
-# .github
 # 🌐 MarginAutoDev
 
 Welcome to the official GitHub organization for MarginAutoDev — a team of Full Stack, Front End, and Back End developers building robust, scalable, and cloud-ready applications.
