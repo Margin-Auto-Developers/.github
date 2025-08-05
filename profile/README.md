@@ -11,7 +11,7 @@ We architect and deliver software solutions using modern technologies and best p
 ### Languages & Frameworks
 - **JavaScript / TypeScript**
 - **C# / .NET**
-- **Node.js, React, Angular, Express**
+- **Node.js, React, Express**
 
 ### Databases
 - **MySQL**
